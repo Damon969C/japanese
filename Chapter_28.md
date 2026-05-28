@@ -1,6 +1,4 @@
 # 28 誘い・勧め・注意・禁止
-Invitations/Advice/Warnings/Prohibitions
-邀请，建议，提醒，禁止
 
 相手を誘ったり、勧めたり、要求などをしたりしたいときは、どんな言い方がありますか。
 
