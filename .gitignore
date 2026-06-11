@@ -1,0 +1,6 @@
+*
+!*/
+!.gitignore
+!docs/
+!docs/*.md
+!*.py
