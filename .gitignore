@@ -3,4 +3,5 @@
 !.gitignore
 !docs/
 !docs/*.md
+!docs/grammar_analysis/**
 !*.py
